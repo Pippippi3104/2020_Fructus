@@ -38,3 +38,4 @@ struct StartButtonView_Previews: PreviewProvider {
             .previewLayout(.sizeThatFits)
     }
 }
+
